@@ -1,22 +1,22 @@
 # ionic-resources
 A directory of all the different resources available for building better ionic apps. 
 
-## [Push Notifications]	(/#push-notifications-1)
-## [Database Providers]	
-## [Server Side Hosting]	
-## [Backend Technologies]	
-## [Analytics]	
-## [Auth]	
-## [App Testing]	
-## [Errors/Crashes]	
-## [App Updates]	
-## [Text Editor/IDE]
-## [App Prototyping Tools]	
-## [Beta Testing]	
-## [App Distribution]	
-## [Types of Apps]	
-## [Platforms]	
-## [Other Auth Sources]
+[Push Notifications](https://github.com/harishkotra/ionic-resources#push-notifications)
+[Database Providers](https://github.com/harishkotra/ionic-resources#database-providers-1)	
+[Server Side Hosting](https://github.com/harishkotra/ionic-resources#server-side-hosting-1)
+[Backend Technologies]()	
+[Analytics]()
+[Auth]()
+[App Testng]()	
+[Errors/Crashes]()	
+[App Updates]()	
+[Text Editor/IDE]()
+[App Prototyping Tools]()	
+[Beta Testing]()	
+[App Distribution]()	
+[Types of Apps]()	
+[Platforms]()	
+[Other Auth Sources]()
 
 ## Push Notifications
 
