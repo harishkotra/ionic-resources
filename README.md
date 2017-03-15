@@ -125,5 +125,50 @@ A directory of all the different resources available for building better ionic a
 - Baslamiq
 - Sketch
 
+## Beta Testing Tools
 
-Updating the other lists and links soon.
+- Ionic View
+- Hockeyapp
+- Testflight
+- TestFairy
+
+## App Distribution Tools
+
+- App store (Apple, Google Play, etc)
+- MobileIron
+- Airwatch
+- Microsoft Intune
+- Ionic View (as an internal app store, etc)
+- Hosted web apps or desktop downloads
+
+## Types of Apps
+
+- Consumer social network (think untappd, twitter, etc)
+- Consumer chat (think WhatsApp)
+- Consumer general (news apps, utilities, etc)
+- Enterprise internal app
+- Progressive Web Apps
+- Desktop apps (electron, etc)
+- Desktop web apps
+
+## Different Platforms
+
+- iOS
+- Android
+- Tablet (iPad, Android Tablets, etc)
+- Universal Windows Platform
+- Desktop Mac
+- Desktop Windows
+- Mobile Web/Progressive Web App
+- Responsive web
+- Smart watches
+- TVs
+
+## Other Auth Sources
+
+- Social oAuth (Facebook, Google, Twitter)
+- LDAP/Active Directory
+- SAML
+- Salesforce
+
+Links will be updated soon.
