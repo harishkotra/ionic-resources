@@ -49,4 +49,81 @@ A directory of all the different resources available for building better ionic a
 - Digital Ocean
 - Classic VPS provider (Linode, Rackspace Cloud, etc)
 
+## Backend Technologies
+
+- Node.js
+- Python (Django, Flask, etc)
+- Ruby (on rails or otherwise)
+- Java
+- C#/.NET
+
+## Analytics
+
+- Google Analytics
+- Firebase Analytics
+- Amazon Mobile Analytics
+- Fabric Answers
+- Mixpanel
+- Keen
+- Segment
+- Amplitude
+- Localytics
+- Adobe
+- Ionic Analytics
+
+## Auth
+
+- Firebase Auth
+- GCP Auth
+- Auth.io
+- Auth0
+- Stormpath
+- Fabric Digits
+- Amazon Cognito
+- Azure Authentication
+- Ionic Auth
+
+## App Testing
+
+- AWS Device Farm
+- Firebase Test Lab
+- Browserstack
+- Sauce Labs
+
+## Errors/Crashes Monitoring Tools
+
+- Fabric/Crashlytics
+- Firebase crash reporting
+- Sentry
+- TrackJS
+- Bugsnag
+- Opbeat
+- Rollbar
+
+## App Updates
+
+- Ionic Deploy
+- Code Push
+- PhoneGap ContentSync
+- PhoneGap Hydration
+
+## Text Editors/ IDEs
+
+- Visual Studio Code
+- Visual Studio IDE
+- Atom
+- Webstorm
+- Sublime Text
+- TextMate
+- Brackets
+
+## App Prototyping Tools
+
+- Ionic Creator
+- Invision
+- Marvel
+- Baslamiq
+- Sketch
+
+
 Updating the other lists and links soon.
