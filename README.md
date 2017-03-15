@@ -3,20 +3,20 @@ A directory of all the different resources available for building better ionic a
 
 - [Push Notifications](https://github.com/harishkotra/ionic-resources#push-notifications)
 - [Database Providers](https://github.com/harishkotra/ionic-resources#database-providers-1)	
-- [Server Side Hosting](https://github.com/harishkotra/ionic-resources#server-side-hosting-1)
-- [Backend Technologies]()	
-- [Analytics]()
-- [Auth]()
-- [App Testng]()	
-- [Errors/Crashes]()	
-- [App Updates]()	
-- [Text Editor/IDE]()
-- [App Prototyping Tools]()	
-- [Beta Testing]()	
-- [App Distribution]()	
-- [Types of Apps]()	
-- [Platforms]()	
-- [Other Auth Sources]()
+- [Server Side Hosting](https://github.com/harishkotra/ionic-resources/#server-side-hosting)
+- [Backend Technologies](https://github.com/harishkotra/ionic-resources/#backend-technologies)	
+- [Analytics](https://github.com/harishkotra/ionic-resources/#analytics)
+- [Auth](https://github.com/harishkotra/ionic-resources/#auth)
+- [App Testng](https://github.com/harishkotra/ionic-resources/#app-testing)	
+- [Errors/Crashes](https://github.com/harishkotra/ionic-resources/#errorscrashes-monitoring-tools)	
+- [App Updates](https://github.com/harishkotra/ionic-resources/#app-updates)	
+- [Text Editor/IDE](https://github.com/harishkotra/ionic-resources/#text-editors-ides)
+- [App Prototyping Tools](https://github.com/harishkotra/ionic-resources/#app-prototyping-tools)	
+- [Beta Testing](https://github.com/harishkotra/ionic-resources/#beta-testing-tools)	
+- [App Distribution](https://github.com/harishkotra/ionic-resources/#app-distribution-tools)	
+- [Types of Apps](https://github.com/harishkotra/ionic-resources/#types-of-apps)	
+- [Platforms](https://github.com/harishkotra/ionic-resources/#different-platforms)	
+- [Other Auth Sources](https://github.com/harishkotra/ionic-resources/#other-auth-sources)
 
 ## Push Notifications
 
@@ -30,65 +30,62 @@ A directory of all the different resources available for building better ionic a
 ## Database Providers
 
 - Firebase [website](https://firebase.google.com/)
-- Self-hosted SQL database (MySQL, Postgres, etc)
-- AWS DynamoDB
-- AWS RDS
-- Heroku Postgres
-- Self-hosted MongoDB
-- Ionic DB (beta)
+- AWS DynamoDB [website](https://aws.amazon.com/dynamodb/)
+- AWS RDS [website](https://aws.amazon.com/rds)
+- Heroku Postgres [website](https://www.heroku.com/postgres)
+- Ionic DB (beta) [website](https://ionic.io/db)
 
 ##  Server Side Hosting
 
 - No server! Firebase or another pure-client side system [website](https://firebase.google.com/)
-- AWS Lambda
-- Amazon ECS
-- AWS LightSail
-- Google App Engine/GCP Containers
-- Heroku
-- Azure
-- Digital Ocean
-- Classic VPS provider (Linode, Rackspace Cloud, etc)
+- AWS Lambda [website](https://aws.amazon.com/lambda/)
+- Amazon ECS [website](https://aws.amazon.com/ecs/)
+- AWS LightSail [website](https://amazonlightsail.com/)
+- Google App Engine/GCP Containers [website](https://cloud.google.com/container-engine/)
+- Heroku [website](https://www.heroku.com/)
+- Azure [website](https://azure.microsoft.com/en-in/)
+- Digital Ocean [website](https://www.digitalocean.com/)
 
 ## Backend Technologies
 
-- Node.js
-- Python (Django, Flask, etc)
-- Ruby (on rails or otherwise)
-- Java
-- C#/.NET
+- Node.js [website](https://nodejs.org/)
+- Python (Django, Flask, etc) [website](https://www.python.org/)
+- Ruby (on rails or otherwise) [website](https://www.ruby-lang.org/)
+- Java [website](https://java.com/download)
+- C#/.NET [website](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 
 ## Analytics
 
-- Google Analytics
-- Firebase Analytics
-- Amazon Mobile Analytics
-- Fabric Answers
-- Mixpanel
-- Keen
-- Segment
-- Amplitude
-- Localytics
-- Adobe
-- Ionic Analytics
+- Google Analytics [website](https://analytics.google.com/)
+- Firebase Analytics [website](https://firebase.google.com/features/analytics/)
+- Amazon Mobile Analytics [website](https://aws.amazon.com/mobileanalytics/)
+- Fabric Answers [website](https://fabric.io/kits/android/answers/summary)
+- Mixpanel [website](https://mixpanel.com/)
+- Keen [website](https://keen.io/)
+- Segment [website](https://segment.com/)
+- Amplitude [website](https://amplitude.com/)
+- Localytics [website](https://www.localytics.com/)
+- Adobe [website](https://my.omniture.com/login/)
+- Ionic Analytics [website](https://docs.ionic.io/services/analytics/)
 
 ## Auth
 
-- Firebase Auth
-- GCP Auth
-- Auth.io
-- Auth0
-- Stormpath
-- Fabric Digits
-- Amazon Cognito
-- Azure Authentication
-- Ionic Auth
+- Firebase Auth [website](https://firebase.google.com/)
+- GCP Auth [website](https://cloud.google.com/docs/authentication)
+- Auth.io [website](http://docs.oauth.io/)
+- Auth0 [website](https://auth0.com)
+- Stormpath [website](https://stormpath.com/)
+- Fabric Digits [website](https://fabric.io/kits/digits)
+- Amazon Cognito [website](https://aws.amazon.com/cognito/)
+- Azure Authentication [website](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication)
+- Ionic Auth [website](https://docs.ionic.io/services/auth/)
 
 ## App Testing
 
-- AWS Device Farm
-- Firebase Test Lab
-- Browserstack
-- Sauce Labs
+- AWS Device Farm [website](https://aws.amazon.com/device-farm/)
+- Firebase Test Lab [website](https://firebase.google.com/docs/test-lab/)
+- Browserstack [website](https://www.browserstack.com/)
+- Sauce Labs [website](https://saucelabs.com/)
 
 ## Errors/Crashes Monitoring Tools
 
